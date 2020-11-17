@@ -7,7 +7,7 @@ So, here is an something to do so,
 <p><code>I read a __________.</code> will change to <code>I read a ***mask***.</code></p>
 <p> Then we will pass the Keyword file along with the blank question statements file to FitBert which is  a  library  for  using BERT(Google’s  very  large  masked  language  model)to  fill  in  the blank(s) in a section of text from a list of options which will be our keywords.Because of the training  objective  for  BERT  (masked  language  modeling),  it  is  very  good  at  filling  in  the blanks. In fact, that is one of the two tasks that BERT is trained on.</p>
 
-## Flowchat<image src=Flowchart.png>Flowchart </image>
+## Flowchat<image src=Flowchart.png></image>
 
 ## Objective 
 <p> <b>Input:</b> An image of the “fill the blanks”Home Work..</p>
